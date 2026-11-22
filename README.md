@@ -6,7 +6,7 @@
 
 **Building useful apps, experimenting with technology and contributing to open-source projects.**
 
-[🇫🇷 Français](#-en-français) · [🇬🇧 English](#-in-english)
+[🌐 Site officiel / Official website](https://luniun-dev.fr) · [🇫🇷 Français](#-en-français) · [🇬🇧 English](#-in-english)
 
 </div>
 
@@ -24,7 +24,8 @@ Nous concevons des applications Android et des outils pratiques, avec un goût p
 
 L'objectif : rendre les informations du jeu plus faciles à consulter et proposer des outils utiles pendant une partie.
 
-> 🚧 Application en développement. Les liens publics de téléchargement et de présentation seront ajoutés lorsqu'ils seront disponibles.
+> 🌐 [Découvrir Luniun Dev sur notre site officiel](https://luniun-dev.fr)  
+> 🚧 Application en développement : le lien de téléchargement sera ajouté dès sa disponibilité.
 
 ### 🤝 Contributions open source
 
@@ -42,7 +43,8 @@ Nous privilégions les contributions utiles, transparentes et respectueuses des 
 
 **Medieval Dynasty Companion (MDC)** is an Android companion app in development for *Medieval Dynasty* players, designed to make game information easier to access and help with everyday gameplay tasks.
 
-> 🚧 In development. Public product and download links will be added when available.
+> 🌐 [Visit the official Luniun Dev website](https://luniun-dev.fr)  
+> 🚧 App in development: a download link will be added when available.
 
 ### 🤝 Open-source contributions
 
